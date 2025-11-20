@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DevStuff\\Cpp\\AlphaCpp\\AlphaProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78CD23D6-AD8C-4EA7-9232-0CD5DB83A6BB}|AlphaProject\\AlphaProject.vcxproj|C:\\DevStuff\\Cpp\\AlphaCpp\\AlphaProject\\AlphaProject\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{78CD23D6-AD8C-4EA7-9232-0CD5DB83A6BB}|AlphaProject\\AlphaProject.vcxproj|solutionrelative:AlphaProject\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\DevStuff\\Cpp\\AlphaCpp\\AlphaProject\\AlphaProject\\main.cpp",
+              "RelativeDocumentMoniker": "AlphaProject\\main.cpp",
+              "ToolTip": "C:\\DevStuff\\Cpp\\AlphaCpp\\AlphaProject\\AlphaProject\\main.cpp",
+              "RelativeToolTip": "AlphaProject\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-20T04:12:15.395Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
