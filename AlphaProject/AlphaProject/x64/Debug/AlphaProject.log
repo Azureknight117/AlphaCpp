@@ -1,4 +1,4 @@
 ﻿  main.cpp
-  StringInput.cpp
-  Generating Code...
+C:\DevStuff\Cpp\AlphaCpp\AlphaProject\AlphaProject\main.cpp(34,15): warning C4129: 'M': unrecognized character escape sequence
+C:\DevStuff\Cpp\AlphaCpp\AlphaProject\AlphaProject\main.cpp(49,15): warning C4129: 'N': unrecognized character escape sequence
   AlphaProject.vcxproj -> C:\DevStuff\Cpp\AlphaCpp\AlphaProject\x64\Debug\AlphaProject.exe
