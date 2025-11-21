@@ -1,4 +1,9 @@
 ﻿  main.cpp
-C:\DevStuff\Cpp\AlphaCpp\AlphaProject\AlphaProject\main.cpp(34,15): warning C4129: 'M': unrecognized character escape sequence
-C:\DevStuff\Cpp\AlphaCpp\AlphaProject\AlphaProject\main.cpp(49,15): warning C4129: 'N': unrecognized character escape sequence
-  AlphaProject.vcxproj -> C:\DevStuff\Cpp\AlphaCpp\AlphaProject\x64\Debug\AlphaProject.exe
+C:\DevStuff\Cpp\AlphaCpp\AlphaProject\AlphaProject\Testing.h(29,15): warning C4129: 'M': unrecognized character escape sequence
+  (compiling source file 'main.cpp')
+  
+C:\DevStuff\Cpp\AlphaCpp\AlphaProject\AlphaProject\Testing.h(43,15): warning C4129: 'N': unrecognized character escape sequence
+  (compiling source file 'main.cpp')
+  
+main.obj : error LNK2019: unresolved external symbol "public: class Integer & __cdecl Integer::operator=(class Integer const &)" (??4Integer@@QEAAAEAV0@AEBV0@@Z) referenced in function "public: class Number & __cdecl Number::operator=(class Number const &)" (??4Number@@QEAAAEAV0@AEBV0@@Z)
+C:\DevStuff\Cpp\AlphaCpp\AlphaProject\x64\Debug\AlphaProject.exe : fatal error LNK1120: 1 unresolved externals

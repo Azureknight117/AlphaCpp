@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\DevStuff\\Cpp\\AlphaCpp\\AlphaProject\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{78CD23D6-AD8C-4EA7-9232-0CD5DB83A6BB}|AlphaProject\\AlphaProject.vcxproj|C:\\DevStuff\\Cpp\\AlphaCpp\\AlphaProject\\AlphaProject\\Integer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{78CD23D6-AD8C-4EA7-9232-0CD5DB83A6BB}|AlphaProject\\AlphaProject.vcxproj|solutionrelative:AlphaProject\\Integer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78CD23D6-AD8C-4EA7-9232-0CD5DB83A6BB}|AlphaProject\\AlphaProject.vcxproj|C:\\DevStuff\\Cpp\\AlphaCpp\\AlphaProject\\AlphaProject\\Integer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{78CD23D6-AD8C-4EA7-9232-0CD5DB83A6BB}|AlphaProject\\AlphaProject.vcxproj|solutionrelative:AlphaProject\\Integer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{78CD23D6-AD8C-4EA7-9232-0CD5DB83A6BB}|AlphaProject\\AlphaProject.vcxproj|C:\\DevStuff\\Cpp\\AlphaCpp\\AlphaProject\\AlphaProject\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{78CD23D6-AD8C-4EA7-9232-0CD5DB83A6BB}|AlphaProject\\AlphaProject.vcxproj|solutionrelative:AlphaProject\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78CD23D6-AD8C-4EA7-9232-0CD5DB83A6BB}|AlphaProject\\AlphaProject.vcxproj|C:\\DevStuff\\Cpp\\AlphaCpp\\AlphaProject\\AlphaProject\\Testing.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{78CD23D6-AD8C-4EA7-9232-0CD5DB83A6BB}|AlphaProject\\AlphaProject.vcxproj|solutionrelative:AlphaProject\\Testing.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{78CD23D6-AD8C-4EA7-9232-0CD5DB83A6BB}|AlphaProject\\AlphaProject.vcxproj|C:\\DevStuff\\Cpp\\AlphaCpp\\AlphaProject\\AlphaProject\\StringInput.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -26,19 +38,72 @@
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Testing.h",
+              "DocumentMoniker": "C:\\DevStuff\\Cpp\\AlphaCpp\\AlphaProject\\AlphaProject\\Testing.h",
+              "RelativeDocumentMoniker": "AlphaProject\\Testing.h",
+              "ToolTip": "C:\\DevStuff\\Cpp\\AlphaCpp\\AlphaProject\\AlphaProject\\Testing.h",
+              "RelativeToolTip": "AlphaProject\\Testing.h",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAgwBwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-21T15:58:06.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Integer.h",
+              "DocumentMoniker": "C:\\DevStuff\\Cpp\\AlphaCpp\\AlphaProject\\AlphaProject\\Integer.h",
+              "RelativeDocumentMoniker": "AlphaProject\\Integer.h",
+              "ToolTip": "C:\\DevStuff\\Cpp\\AlphaCpp\\AlphaProject\\AlphaProject\\Integer.h",
+              "RelativeToolTip": "AlphaProject\\Integer.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-21T15:46:48.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Integer.cpp",
+              "DocumentMoniker": "C:\\DevStuff\\Cpp\\AlphaCpp\\AlphaProject\\AlphaProject\\Integer.cpp",
+              "RelativeDocumentMoniker": "AlphaProject\\Integer.cpp",
+              "ToolTip": "C:\\DevStuff\\Cpp\\AlphaCpp\\AlphaProject\\AlphaProject\\Integer.cpp",
+              "RelativeToolTip": "AlphaProject\\Integer.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-21T15:44:41.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\DevStuff\\Cpp\\AlphaCpp\\AlphaProject\\AlphaProject\\main.cpp",
+              "RelativeDocumentMoniker": "AlphaProject\\main.cpp",
+              "ToolTip": "C:\\DevStuff\\Cpp\\AlphaCpp\\AlphaProject\\AlphaProject\\main.cpp",
+              "RelativeToolTip": "AlphaProject\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-20T04:12:15.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "StringInput.h",
               "DocumentMoniker": "C:\\DevStuff\\Cpp\\AlphaCpp\\AlphaProject\\AlphaProject\\StringInput.h",
               "RelativeDocumentMoniker": "AlphaProject\\StringInput.h",
               "ToolTip": "C:\\DevStuff\\Cpp\\AlphaCpp\\AlphaProject\\AlphaProject\\StringInput.h",
               "RelativeToolTip": "AlphaProject\\StringInput.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-11-20T04:49:39.792Z"
+              "WhenOpened": "2025-11-20T04:49:39.792Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "StringInput.cpp",
               "DocumentMoniker": "C:\\DevStuff\\Cpp\\AlphaCpp\\AlphaProject\\AlphaProject\\StringInput.cpp",
               "RelativeDocumentMoniker": "AlphaProject\\StringInput.cpp",
@@ -46,19 +111,7 @@
               "RelativeToolTip": "AlphaProject\\StringInput.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-11-20T04:47:38.983Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "main.cpp",
-              "DocumentMoniker": "C:\\DevStuff\\Cpp\\AlphaCpp\\AlphaProject\\AlphaProject\\main.cpp",
-              "RelativeDocumentMoniker": "AlphaProject\\main.cpp",
-              "ToolTip": "C:\\DevStuff\\Cpp\\AlphaCpp\\AlphaProject\\AlphaProject\\main.cpp",
-              "RelativeToolTip": "AlphaProject\\main.cpp",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-11-20T04:12:15.395Z",
+              "WhenOpened": "2025-11-20T04:47:38.983Z",
               "EditorCaption": ""
             }
           ]
