@@ -21,6 +21,7 @@ int main() {
 	Number n1{ 1 };
 	auto n2{ n1 };
 	n2 = n1;
+	Number n3 = std::move(n1);//Guarantees move instead of copy
 	return 0;
 }
 
