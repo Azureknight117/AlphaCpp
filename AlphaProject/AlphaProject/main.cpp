@@ -4,24 +4,17 @@
 #include "Testing.h"
 
 
-class Number {
-	Integer m_Value{};
-public:
-	Number(int value) :m_Value{ value } {
+template <typename T> T Max(T x, T y)
+{
+	return (x > y) ? x : y;
+}
 
-	}
-	Number(const Number& n) :m_Value{ n.m_Value } {
-
-	}
-};
 
 
 int main() {
 	
-	Number n1{ 1 };
-	auto n2{ n1 };
-	n2 = n1;
-	Number n3 = std::move(n1);//Guarantees move instead of copy
+
+	std::cout << "x: " << Max(6.4, 10.5) << std::endl;
 	return 0;
 }
 
